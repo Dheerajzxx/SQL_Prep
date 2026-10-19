@@ -1,0 +1,1 @@
+SELECT emp_name, job_title, salary FROM employees WHERE salary > 100000 ORDER BY salary;

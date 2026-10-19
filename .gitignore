@@ -1,0 +1,7 @@
+\.vscode
+.DS_Store
+*.db
+*.sqlite
+.env
+*.dump
+/setup
