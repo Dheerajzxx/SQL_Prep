@@ -1,0 +1,1 @@
+select product_name, category, price from products where price between 30 and 100 and category in ('Electronics', 'Books') order by price, product_name;
